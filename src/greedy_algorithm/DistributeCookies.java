@@ -1,10 +1,10 @@
-package GreedyAlgorithm;
+package greedy_algorithm;
 
 import java.util.Arrays;
 
 /**
  * ClassName: DistributeCookies
- * Package: GreedyAlgorithm
+ * Package: greedy_algorithm
  * Description:
  *
  * @Author Zhe Deng
